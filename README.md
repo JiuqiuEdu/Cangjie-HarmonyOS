@@ -3,9 +3,9 @@
 
 | 编号      | 封面                         |   购买链接    |
 |:----------:|:-----------------------------:|:----------:|
-| 图书1 | <img src="/仓颉图书/【图书封面】图解仓颉编程：基础篇.jpg" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
-| 图书2 | <img src="/仓颉图书/【图书封面】图解仓颉编程：高级篇.jpg" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
-| 图书3 | <img src="/仓颉图书/【图书封面】仓颉编程快速上手.jpg" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
+| 图书1 | <img src="/仓颉图书/【图书封面】图解仓颉编程：基础篇.png" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
+| 图书2 | <img src="/仓颉图书/【图书封面】图解仓颉编程：高级篇.png" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
+| 图书3 | <img src="/仓颉图书/【图书封面】仓颉编程快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
 
 # 仓颉图书介绍
 
@@ -18,7 +18,7 @@
 
 | 编号      | 封面                         |   链接    |
 |:----------:|:-----------------------------:|:----------:|
-| 图书1 | <img src="/鸿蒙图书/【图书封面】鸿蒙原生应用开发：ArkTS语言快速上手.jpg" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
+| 图书1 | <img src="/鸿蒙图书/【图书封面】鸿蒙原生应用开发：ArkTS语言快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/13066138.html" target="_blank">京东购买</a> <br> <br> <a href="https://product.dangdang.com/29180052.html" target="_blank">当当购买</a> |
 
 
 # 技术交流
