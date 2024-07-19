@@ -25,7 +25,3 @@
 | 1 | <img src="/二维码/微信（张荣超老师）.png" width="200" height="200">  | 微信（张荣超老师） |
 | 2 | <img src="/二维码/微信群.png" width="200" height="200">  | 微信群 |
 | 3 | <img src="/二维码/QQ群.png" width="200" height="200">  | QQ群：155097929  |
-| 4 | <img src="/二维码/抖音.jpg" width="200" height="200">  | 抖音：九丘教育 |
-| 5 | <img src="/二维码/微信视频号.png" width="200" height="200">  | 微信视频号：九丘教育 |
-| 6 | <img src="/二维码/微信公众号.jpg" width="200" height="200">  | 微信公众号：九丘教育 |
-| 7 | <img src="/二维码/B站.png" width="200" height="200">  | B站：九丘教育 |
