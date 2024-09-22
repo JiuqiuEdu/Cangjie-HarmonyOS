@@ -6,16 +6,16 @@
 
 | 编号      | 封面                         |   购买链接    |
 |:----------:|:-----------------------------:|:----------:|
-| 图书1 | <img src="/仓颉图书/【图书封面】图解仓颉编程：基础篇.png" width="361" height="454">      | <a href="https://item.jd.com/14673362.html" target="_blank">**京东购买（限时5折优惠）**</a> |
-| 图书2 | <img src="/仓颉图书/【图书封面】图解仓颉编程：高级篇.png" width="361" height="454">      | <a href="https://item.jd.com/14204337.html" target="_blank">**京东购买（限时5折优惠）**</a> |
-| 图书3 | <img src="/仓颉图书/【图书封面】仓颉编程快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/14204335.html" target="_blank">**京东购买（限时5折优惠）**</a> |
+| 图书1 | <img src="/仓颉图书/【图书封面】图解仓颉编程：基础篇.png" width="361" height="454">      | <a href="https://item.jd.com/14670056.html" target="_blank">**京东购买**</a> |
+| 图书2 | <img src="/仓颉图书/【图书封面】图解仓颉编程：高级篇.png" width="361" height="454">      | <a href="https://item.jd.com/14670040.html" target="_blank">**京东购买**</a> |
+| 图书3 | <img src="/仓颉图书/【图书封面】仓颉编程快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/14200757.html" target="_blank">**京东购买**</a> |
 
 
 # 鸿蒙图书推荐（使用【仓颉】开发鸿蒙应用的图书，正在编写中^_^）
 
 | 编号      | 封面                         |   链接    |
 |:----------:|:-----------------------------:|:----------:|
-| 图书1 | <img src="/鸿蒙图书/【图书封面】鸿蒙原生应用开发：ArkTS语言快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/14673332.html" target="_blank">**京东购买（限时5折优惠）**</a> |
+| 图书1 | <img src="/鸿蒙图书/【图书封面】鸿蒙原生应用开发：ArkTS语言快速上手.png" width="361" height="454">      | <a href="https://item.jd.com/14199323.html" target="_blank">**京东购买**</a> |
 
 
 # 读者答疑
