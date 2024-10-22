@@ -1,6 +1,6 @@
 # 仓颉图书推荐
 
-<img src="仓颉图书/图书封面.png" width="580">
+<img src="仓颉图书/图书封面.jpg" width="580">
 
 # 以上3本书的定位
 <img src="仓颉图书/3本书的定位.jpg" width="580">
