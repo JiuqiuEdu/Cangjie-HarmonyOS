@@ -1,7 +1,9 @@
 # 仓颉图书
 <img src="pics/仓颉图书/仓颉图书封面-图解.jpg" width="580"><br>
 <img src="pics/仓颉图书/仓颉图书封面-快速上手.jpg" width="580"><br>
-<img src="pics/仓颉图书/仓颉图书战报.jpg" width="580"><br><br>
+<img src="pics/仓颉图书/仓颉图书战报.jpg" width="580"><br>
+<img src="pics/仓颉图书/仓颉图书-影响力新书奖.jpg" width="580"><br>
+<img src="pics/仓颉图书/仓颉图书-影响力作者奖.jpg" width="580"><br><br>
 <a href="https://item.jd.com/14670056.html" target="_blank">**图书链接：《图解仓颉编程：基础篇》**</a><br>
 <a href="https://item.jd.com/14670040.html" target="_blank">**图书链接：《图解仓颉编程：高级篇》**</a><br>
 <a href="https://item.jd.com/14200757.html" target="_blank">**图书链接：《仓颉编程快速上手》**</a><br><br>
